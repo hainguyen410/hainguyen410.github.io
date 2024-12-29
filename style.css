@@ -197,10 +197,10 @@ section {
     text-align: center;
 }
 
-.social-container {
+#social-container {
     display:flex;
     justify-content: center;
-    margin-top: 1rem;
+    margin-top: .75rem;
     gap:1rem;
 }
 
